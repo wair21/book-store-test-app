@@ -18,12 +18,6 @@ const BookListItem = ({ book }) => {
 
         </div>
 
-        /*
-        <Fragment> 
-            <span>{ title }</span>
-            <span>{ author }</span>
-        </Fragment>*/
-
     );
 
 }
